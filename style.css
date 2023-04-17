@@ -532,9 +532,11 @@
     width : 100% ;
     height : 800px ;
     display : flex ;
-    justify-content : space-around ;
-    align-items : flex-start ;
+    flex-direction: column;
+    justify-content : flex-start ;
+    align-items : center ;
     background : #222 ;
-  padding-top: 100px;
-  font-family: Arial;
+    padding-top: 100px;
+    font-family: Arial;
+    gap:60px;
 }
