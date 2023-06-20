@@ -2,4 +2,4 @@
 
 https://hasul79.github.io/FAQ-animation-card__HTML-CSS/
 
-# autor: Hasmik Minasyan
+# author: Hasmik Minasyan
